@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=overpass&color=00E1F7&size=24&center=true&lines=I+Know+What+I'm+Doing;Maybe)](https://git.io/typing-svg)">
+  <img src="https://readme-typing-svg.herokuapp.com?font=overpass&color=00E1F7&size=24&center=true&lines=I+Know+What+I'm+Doing;Maybe">
 </p>
 
 ### 💻 &nbsp;About Me 
