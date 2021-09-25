@@ -8,7 +8,7 @@
 </p>
 
 ### 💻 &nbsp;About Me 
-
+- 😁 &nbsp; I Like Meeting New People.
 - 🎓 &nbsp; Junior frontend web developer.
 
 
@@ -78,7 +78,7 @@
 
 
 
-##  🤝🏻 &nbsp;Connect with Me
+##  🤝🏻 &nbsp;Contact Me
 
 <p align="center">
 <a href="mailto:3llimi69@gmail.com"><img src="https://img.shields.io/badge/-3llimi69@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
