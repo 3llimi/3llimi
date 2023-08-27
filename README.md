@@ -9,7 +9,7 @@
 
 ### 💻 &nbsp;About Me 
 - 😁 &nbsp; I Like Meeting New People.
-- 🎓 &nbsp; Junior frontend web developer.
+- 🎓 &nbsp; Computer Science Student at Innopolis University
 
 
 ## 💻 My Skills
