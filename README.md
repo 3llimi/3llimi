@@ -8,8 +8,9 @@
 </p>
 
 ### 💻 &nbsp;About Me 
-- 😁 &nbsp; I Like Meeting New People.
 - 🎓 &nbsp; Computer Science Student at Innopolis University
+- 😁 &nbsp; I Like Meeting New People.
+
 
 
 ## 💻 My Skills
