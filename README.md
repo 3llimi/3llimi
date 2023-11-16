@@ -67,19 +67,6 @@
 
 </p>
 
-## 🤔 How I learned Programming?
-
-<p align="center">
-  <img alt="Google" src="https://img.shields.io/badge/google-4285f4.svg?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
-<p align="center">
-  <img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-  <img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/>
-  <img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/>
-  <img alt="Stack Exchange" src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white"/>
-</p>
-
 
 
 
