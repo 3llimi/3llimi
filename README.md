@@ -1,4 +1,3 @@
-### Hello there 👋
 
 ## I'm Baha Allimi.
 
@@ -9,8 +8,6 @@
 
 ### 💻 &nbsp;About Me 
 - 🎓 &nbsp; Computer Science Student at Innopolis University
-- 😁 &nbsp; I Like Meeting New People.
-
 
 
 ## 💻 My Skills
