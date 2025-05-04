@@ -8,13 +8,11 @@
 
 ### 💻 &nbsp;About Me 
 - 🎓 &nbsp; Computer Science Student at Innopolis University
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3llimi&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 💻 My Skills
 
 <p align="center">
-
 <!--Programming languages-->
   <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
@@ -71,7 +69,7 @@
 
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3llimi&langs_count=8)
 
 ##  🤝🏻 &nbsp;Contact Me
 
