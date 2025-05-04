@@ -8,6 +8,7 @@
 
 ### 💻 &nbsp;About Me 
 - 🎓 &nbsp; Computer Science Student at Innopolis University
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3llimi&show_icons=true&theme=radical)
 
 
 ## 💻 My Skills
