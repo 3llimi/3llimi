@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=overpass&color=00E1F7&size=24&center=true&lines=I+Know+What+I'm+Doing;Maybe">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ### 💻 &nbsp;About Me 
