@@ -5,10 +5,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=overpass&color=00E1F7&size=24&center=true&lines=I+Know+What+I'm+Doing;Maybe">
 </p>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3llimi&layout=pie)](https://github.com/3llimi/github-readme-stats)
 
 ### 💻 &nbsp;About Me 
 - 🎓 &nbsp; Computer Science Student at Innopolis University
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3llimi&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 💻 My Skills
