@@ -1,7 +1,3 @@
-
-## I'm Baha Allimi.
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=overpass&color=00E1F7&size=24&center=true&lines=I+Know+What+I'm+Doing;Maybe">
 </p>
@@ -88,3 +84,4 @@
 
 <!--
 **cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
